@@ -1,5 +1,0 @@
-30/09/2022
-- Assinei o contrato com a proposta de dissertação "Computação móvel na aprendizagem de música: aplicação m-learning para a prática assistida de violino e viola d’arco"
-- Comecei a fazer um curso de Kotlin e Android Studio
-- Li o artigo "Current State and Future Directions of Technologies for Music Instrument Pedagogy"
-
